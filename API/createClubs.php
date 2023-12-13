@@ -20,7 +20,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 }
 
-// createClubs("Debating Club", "This is one of the most best clubs ever in the history of debating");
-
 ?>
 
